@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class trabajo5{
 static Scanner teclado=new Scanner(System.in);
-static void sueldosemanal(){
+static void sueldo7diasl(){
 //definir variables y otros xd
 System.out.println("Ejemplo estructura Condicional Multiple 1 ");
 String descuenta="";
@@ -16,5 +16,5 @@ descuenta="0.5";
   //datos de salida:xd
   System.out.println("se le descuenta : "+descuenta);
 }
-public static void main(String[] arg){sueldosemanal();}
+public static void main(String[] arg){sueldo7diasl();}
 }
