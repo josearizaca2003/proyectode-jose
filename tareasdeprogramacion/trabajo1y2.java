@@ -14,10 +14,10 @@ public class trabajo1y2 {
     }
 
     public static void calcularFuncionExponecial() {
-        //Declarar Variables
+        //Declarar Variables xd
         int x, lfx;
         double fx=0;
-        //Datos de entrada
+        //Datos de entrada xd
         System.out.println("Ingrese un numero para calcular la funcion exponencial:");
         x=teclado.nextInt();
         System.out.println("Ingrese el limite de la funcion exponencial:");
