@@ -13,7 +13,7 @@ public class LeerTeclado {
     } catch (Exception e) {
         System.out.println("Intente de nuevo");
         valor=leer(valor, msg);
-        //TODO: handle exception
+        
     }
     return valor;
   }
