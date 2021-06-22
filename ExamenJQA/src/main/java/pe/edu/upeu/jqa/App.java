@@ -13,6 +13,8 @@ public class App
         System.out.println( "Hello World!" );
         ResoluciondelExamen jqa=new ResoluciondelExamen();
         //jqa.Compañia();
-        jqa.divisores();
+        //jqa.tablademultiplicaion1al20();
+        //jqa.divisores();
+        //System.out.println(jqa.potencia(4,10));
 }
 }
