@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class trabajo1y2 {
+public class trabajo1 {
     static Scanner teclado=new Scanner(System.in);
 
 
